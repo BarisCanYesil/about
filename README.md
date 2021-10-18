@@ -1,6 +1,6 @@
 🔹 I am a full stack web & hybrid mobile developer.
 
-🔹I have entensive knowledge about Javascript related technologies (vanilla js, typescript, node.js, angular 2+, rxjs, nosql, jQuery and so on.), in addition to further experience on php and mysql.
+🔹 I have entensive knowledge about Javascript related technologies (vanilla js, typescript, node.js, angular 2+, rxjs, nosql, jQuery and so on.), in addition to further experience on php and mysql.
 
 🔹 I am mainly using Angular (all versions from 2 to 11) on the frontend side. I have developed web-apps via Angular using lazy-loading, interceptors, auth-guards, role-guards, ngx-translate (for multi-language support) and so on.
 
